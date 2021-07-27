@@ -1,2 +1,2 @@
 # CSES_SOLUTIONS
-These are the list of question I have solve from CSES
+These are the accepted code of CSES questions that I have solved.
